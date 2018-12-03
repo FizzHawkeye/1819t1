@@ -110,7 +110,7 @@
 ### Lecture 12 (29 Nov)
 
 - Scaling Network Applications
-- [Lecture slides](lectures/lecture-12.html), [PDF Version](lectures/pdfs/lecture-11.pdf)
+- [Lecture slides](lectures/lecture-12.html), [PDF Version](lectures/pdfs/lecture-12.pdf)
 
 ### Lecture 13 (04 Dec) (YIA LT4)
 
