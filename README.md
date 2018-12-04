@@ -44,13 +44,13 @@ This course will introduce basic concepts in computer networking and network pro
 #### For IERG 4080
 - **10%** - Attendance
 - **60%** - Programming Assignments
-- **30%** - Final Examination (Thursday, 20th December)
+- **30%** - Final Examination (10:00 @ TY Wong, Thur, 20th December)
 
 #### For IEMS 5780
 - **10%** - Attendance
 - **45%** - Programming Assignments
 - **15%** - Course Mini Project
-- **30%** - Final Examination (Thursday, 20th December)
+- **30%** - Final Examination (19:00 @ YIA LT3, Thur, 20th December)
 
 ---
 
