@@ -115,5 +115,5 @@
 ### Lecture 13 (04 Dec) (YIA LT4)
 
 - Deploying Network Applications and Other Topics
-- Lecture slides, PDF Version
+- [Lecture slides](lectures/lecture-13.html), [PDF Version](lectures/pdfs/lecture-13.pdf)
 

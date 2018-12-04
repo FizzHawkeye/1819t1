@@ -10,6 +10,7 @@ This course will introduce basic concepts in computer networking and network pro
 
 ## Announcement
 
+* [2018-12-04] Lecture 13 slides available
 * [2018-11-26] Assignment 4 released
 * [2018-11-25] Lecture 12 slides available
 * [2018-11-16] Lecture 11 slides available
