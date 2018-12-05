@@ -21,15 +21,19 @@
 - **Socket and Concurrent Programming**
 - Due Date: 23:59, 09 Nov (Fri)
 - [Instructions](assignments/assignment-2.md)
+- Sample solution: [bot.py](assignments/assignment-2/bot.py), [server.py](assignments/assignment-2/server.py)
 
 ### Assignment 3
 
 - **Movie Recommender System**
 - Due Date: 23:59, 2 Dec (Sun)
 - [Instructions](assignments/assignment-3.md)
+- Sample solution: [bot.py](assignments/assignment-3/bot.py), [app.py](assignments/assignment-3/app.py)
 
 ### Assignment 4 (For IERG4080 Only)
 
 - **Asychronous Messaging**
 - Due Date: 23:59, 22 Dec (Sat)
+- Late submission will NOT be marked
 - [Intstructions](assignments/assignment-4.md)
+
