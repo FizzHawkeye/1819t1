@@ -28,3 +28,6 @@
 * Introduction to Flask
 * Slides: [tutorial-07.pdf](tutorials/tutorial-07.pdf)
 
+### Tutorial 8
+* Analysis of Assignment 2
+* Slides: [tutorial-08.pdf](tutorials/tutorial-08.pdf)
